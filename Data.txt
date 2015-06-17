@@ -15,4 +15,7 @@ mengecek yg salah
 fredericus
 edit
 
+16/ 06/ 2015
+Fredericus : Menghapus kalimat/ code yang tidak di pakai di style
+
 
