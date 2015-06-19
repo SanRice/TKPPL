@@ -15,6 +15,24 @@ mengecek yg salah
 fredericus
 edit
 
+10/06/2015
+Sanrico = "Initial Commit"
+Fredericus = "Edit Pertama"
+Rozi = "Update Data"
+
+11/06/2015
+Fredericus = "Edit sampai aturan permainan. Silakan dilanjutkan"
+
+12/06/2015
+Sanrico = "Initial Commit"
+Fredericus = "Edit Pertama"
+Rozi = "Update Data"
+
+10/06/2015		 
+Sanrico = "Initial Commit"
+Fredericus = "Edit Pertama"
+Rozi = "Update Data"
+
 16/ 06/ 2015
 Fredericus : Menghapus kalimat/ code yang tidak di pakai di style
 
